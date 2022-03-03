@@ -7,3 +7,5 @@ Founded by Enzo Ferrari in 1939 from the Alfa Romeo racing division as Auto Avio
 I have created an interactive dashboard of the analysis, here's the link to my workbook (Tableau Public): https://public.tableau.com/views/FerrariStockAnalysis/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 # Dashboard Image
 ![Tableau Dashboard(Ferrari Stock Analysis)](https://user-images.githubusercontent.com/97349868/156536116-6a2dd502-04b0-43f6-ac21-167191c8d813.png)
+# Tableau Profile
+Find all other Tableau projects on my profile: https://public.tableau.com/app/profile/siddesh7745 
