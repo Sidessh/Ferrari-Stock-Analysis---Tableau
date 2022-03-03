@@ -1,4 +1,4 @@
-# Ferrari-Stock-Analysis---Tableau
+# Ferrari N.V. (Race) -Stock-Analysis---Tableau
 Here's a stock analyis of Ferrari (Race). 
 Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. 
 Founded by Enzo Ferrari in 1939 from the Alfa Romeo racing division as Auto Avio Costruzioni, the company built its first car in 1940, and produced its first Ferrari-badged car in 1947.
